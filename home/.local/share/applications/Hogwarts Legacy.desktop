@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Hogwarts Legacy
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/990080
+Icon=steam_icon_990080
+Terminal=false
+Type=Application
+Categories=Game;

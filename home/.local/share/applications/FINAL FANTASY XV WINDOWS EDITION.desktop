@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=FINAL FANTASY XV WINDOWS EDITION
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/637650
+Icon=steam_icon_637650
+Terminal=false
+Type=Application
+Categories=Game;

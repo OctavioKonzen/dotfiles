@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Mario Kart 8
+Comment=Play this game on Steam
+Exec="/run/media/jake/Jogos/Jogos/Emuladores/Ryujinx/Ryujinx" "/run/media/jake/Jogos/Jogos/Switch/Mario Kart 8.xci"
+Icon=mk8
+Terminal=false
+Type=Application
+Categories=Game;
