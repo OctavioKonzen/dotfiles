@@ -1,7 +1,7 @@
 PROMPT="%F{#FFFFFF}╭─%F{#af00d1}%n %{%F{#808080}%}em %F{#008000}%B%~%b%f
 %F{#FFFFFF}╰─%{%F{#FFFFFF}%}o %f"
 
-/home/jake/.pokemon-colorscripts/pokemon-colorscripts.py -r --no-title
+/home/octavio/.pokemon-colorscripts/pokemon-colorscripts.py -r --no-title
 
 if [ "$(tty)" = "/dev/tty1" ]; then
     Hyprland
